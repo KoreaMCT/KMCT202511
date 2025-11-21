@@ -85,7 +85,7 @@
 - Interactive activity (Team Activity)
 
 ## 📂 Presentation Materials
-- Presentation materials are here: ./Korea%20MCT%20%EC%98%A8%EB%9D%BC%EC%9D%B8%20%EB%B2%99%EA%B0%9C%20202511%20%EB%B0%9C%ED%91%9C.pdf
+- Presentation materials are here: [발표 PDF: Korea MCT 온라인 벙개 202511 발표.pdf](./Korea%20MCT%20%EC%98%A8%EB%9D%BC%EC%9D%B8%20%EB%B2%99%EA%B0%9C%20202511%20%EB%B0%9C%ED%91%9C.pdf)
 
 ## 📊 Feedback (Please make sure to participate in the MCT Public Program survey!)
 - Meetup Survey: https://forms.office.com/r/c3Ev2CPnHG
@@ -93,10 +93,6 @@
 
 ## 🌙 Closing Comments
 Thank you for your active participation! It was a meaningful time together. See you again next month!
-
-## 🎉 Photos
-
-https://github.com/user-attachments/assets/8411c784-fa41-4318-b8a4-2d7ead94cba5
 
 ## 📞 Contact
 
