@@ -47,3 +47,58 @@
 
 - Korea MCT : [https://www.facebook.com/groups/koreamct](https://www.facebook.com/groups/koreamct)
 - GitHub : [https://github.com/KoreaMCT](https://github.com/KoreaMCT)
+
+
+---
+
+
+
+# 🌟 Korea MCT Online Meetup November 2025 🌟
+
+## 📅 Event Overview
+
+- **Date & Time**: Friday, November 21, 2025, 9:00 PM (21:00–22:30)
+- **Location**: Microsoft Teams
+- **Audience**: Current and former MCTs and anyone interested
+- **Organizer**: Minjin Park
+
+## 📝 Program (Agenda)
+
+1. 📸 **Challenge~! Group Photo! (First)** — Facilitated
+2. 🤝 **Getting to Know Each Other (Introductions)** — All participants
+3. 🔄 **MCT Program Updates** — Sungjin Ahn
+4. 📖 **Book Introduction (Vibe Coding with Code Assistant)** — Jongdeok Kim
+5. 💡 **Mid-summary of Ignite AI** — Geumjae Yoon
+6. 🔐 **Global Secure Access** — Jin Hwan Woo
+7. 🎯 **Team Activity** — SungHo You
+8. 📸 **Challenge~! Group Photo! (Second)** — Facilitated
+9. 🗨️ **Closing & Free Networking**
+
+## 🎉 Event Highlights (To Be Updated)
+
+- Total **20 participants**
+- Community networking
+- MCT program updates
+- Technical insights (Ignite AI)
+- Security & Access Control (Global Secure Access)
+- Book introduction & knowledge sharing
+- Interactive activity (Team Activity)
+
+## 📂 Presentation Materials
+- Presentation materials are here: ./Korea%20MCT%20%EC%98%A8%EB%9D%BC%EC%9D%B8%20%EB%B2%99%EA%B0%9C%20202511%20%EB%B0%9C%ED%91%9C.pdf
+
+## 📊 Feedback (Please make sure to participate in the MCT Public Program survey!)
+- Meetup Survey: https://forms.office.com/r/c3Ev2CPnHG
+- MCT Public Program Survey: https://aka.ms/MCTSummitFeedback
+
+## 🌙 Closing Comments
+Thank you for your active participation! It was a meaningful time together. See you again next month!
+
+## 🎉 Photos
+
+https://github.com/user-attachments/assets/8411c784-fa41-4318-b8a4-2d7ead94cba5
+
+## 📞 Contact
+
+- Korea MCT: https://www.facebook.com/groups/koreamct
+- GitHub: https://github.com/KoreaMCT
